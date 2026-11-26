@@ -4,6 +4,7 @@ description = "Professional math tutoring by Dr. Sam Azizi, Ph.D. – school and
 date = 2020-07-14
 template = "page.html"
 +++
+
 ##**Course Outline:**
 
 - Riemann sum, Fundamental Theorem of Calculus, definite, indefinite and improper integrals, approximate integration, integration techniques, applications of integration. First-order separable differential equations and growth models. Sequences and series, series tests, power series, convergence and applications of power series.

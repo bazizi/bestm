@@ -4,6 +4,7 @@ description = "Professional math tutoring by Dr. Sam Azizi, Ph.D. – school and
 date = 2019-01-05
 template = "page.html"
 +++
+
 # About Me:
 
 - A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)
@@ -12,7 +13,7 @@ template = "page.html"
 
 ## My Sample Math Tutoring Notes of Math 10 Tutoring:
 
-- [Factoring Quadratics](/Math10/Factoring Quadratics.pdf)
+- [Factoring Quadratics](/Math10/Factoring%20Quadratics.pdf)
 
 ---
 

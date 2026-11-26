@@ -4,9 +4,10 @@ description = "A Professional Math Tutor With a Ph.D. Degree in Math for Face-to
 date = 2020-07-14
 template = "page.html"
 +++
+
 # About Me
 
-**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)****SFU Math 240 Course Outline:**
+**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**SFU Math 240 Course Outline:**
 
 - Linear equations, matrices, determinants. Real and abstract vector spaces, subspaces, and linear transformations; basis and change of basis. Complex numbers. Eigenvalues and eigenvectors; diagonalization. Inner products and orthogonality; least squares problems. Applications. The subject is presented with an abstract emphasis and includes proofs of the basic theorems.
 

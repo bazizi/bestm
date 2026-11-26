@@ -4,7 +4,8 @@ description = "Limits and Continuity of Functions, Derivative of Functions, Chai
 date = 2020-07-14
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**SFU Math 151 covers the topics related to:****Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.**
+
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**SFU Math 151 covers the topics related to:**Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.**
 
 ## My Sample Math Tutoring Notes of SFU Math 151 Tutoring
 

@@ -5,7 +5,7 @@ date = 2020-07-14
 template = "page.html"
 +++
 
-**About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)****Course Outline:*****Rectangular, cylindrical and spherical coordinates. Vectors, lines, planes, cylinders, quadric surfaces. Vector functions, curves, motion in space. Differential and integral calculus of several variables. Vector fields, line integrals, fundamental theorem for line integrals, Green's theorem.***
+**About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**Course Outline:**Rectangular, cylindrical and spherical coordinates. Vectors, lines, planes, cylinders, quadric surfaces. Vector functions, curves, motion in space. Differential and integral calculus of several variables. Vector fields, line integrals, fundamental theorem for line integrals, Green's theorem.**
 
 ## My Sample Math Tutoring Notes of SFU Math 251 Tutoring
 

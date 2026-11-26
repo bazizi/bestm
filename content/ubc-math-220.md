@@ -4,7 +4,8 @@ description = "Proofs, Mathematical Induction, Equivalence relations, Injective 
 date = 2019-07-05
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 220 (Mathematical Proof) covers the topics related to:****Set Theory, Logic, Direct and Contrapositive****Proofs, Mathematical Induction, Equivalence relations, Injective Functions, Surjective Functions, Bijective Functions, Inverse Functions, Compositions of Functions, Cardinality of sets, Sequences and series, and A brief of Graph Theory.**
+
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 220 (Mathematical Proof) covers the topics related to:**Set Theory, Logic, Direct and Contrapositive**Proofs, Mathematical Induction, Equivalence relations, Injective Functions, Surjective Functions, Bijective Functions, Inverse Functions, Compositions of Functions, Cardinality of sets, Sequences and series, and A brief of Graph Theory.**
 
 ---
 

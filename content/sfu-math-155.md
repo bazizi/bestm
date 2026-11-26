@@ -5,7 +5,7 @@ date = 2020-07-14
 template = "page.html"
 +++
 
-**Course Outline**:***The integral, partial derivatives, differential equations, linear systems, and their applications; mathematical models of biological processes.***
+**Course Outline**:**The integral, partial derivatives, differential equations, linear systems, and their applications; mathematical models of biological processes.**
 
 ## My Sample Math Tutoring Notes of SFU Math 155 Tutoring
 

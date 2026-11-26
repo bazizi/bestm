@@ -4,7 +4,8 @@ description = "Review Of Functions, Limits and Continuity of Functions, Derivati
 date = 2020-07-14
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**SFU Math 154 covers the topics related to:****Review Of Functions, Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.**
+
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**SFU Math 154 covers the topics related to:**Review Of Functions, Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.**
 
 ## My Sample Math Tutoring Notes of SFU Math 154 Tutoring
 

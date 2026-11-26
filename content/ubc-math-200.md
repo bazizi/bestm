@@ -4,7 +4,8 @@ description = "Several Variable Functions, Local Extrema of Two-Variable Functio
 date = 2019-07-04
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 200 covers the topics related to:****Three-dimensional coordinate systems, Vectors,****Several Variable Functions, Local Extrema of Two-Variable Functions and Lagrange Multipliers, Polar Coordinates, Cylindrical and Spherical Coordinates, Double Integrals of two variable Functions, Triple Integrals of three Variable Functions.**
+
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 200 covers the topics related to:**Three-dimensional coordinate systems, Vectors,**Several Variable Functions, Local Extrema of Two-Variable Functions and Lagrange Multipliers, Polar Coordinates, Cylindrical and Spherical Coordinates, Double Integrals of two variable Functions, Triple Integrals of three Variable Functions.**
 
 ## My Sample Math Tutoring Notes of UBC Math 200 Tutoring
 

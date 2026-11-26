@@ -4,9 +4,10 @@ description = "Limits and Continuity of Functions, Derivative of Functions, Chai
 date = 2024-10-13
 template = "page.html"
 +++
+
 ## About Me:
 
-- A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 100 covers the topics related to:****Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.**
+- A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 100 covers the topics related to:**Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.**
 
 ## My Sample Math Tutoring Notes of UBC Math 120 Tutoring
 

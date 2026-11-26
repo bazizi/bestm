@@ -4,6 +4,7 @@ description = "I**ntegration and Anti Derivatives of one variable Functions, Def
 date = 2019-07-02
 template = "page.html"
 +++
+
 - About The Owner: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 101 covers the topics related to:**I**ntegration and Anti Derivatives of one variable Functions, Definite Integral, Integration By Parts, Trigonometric Substitution Integration, Rational Functions Integrations, Sequences and Series, Taylor Series.**
 
 ## My Sample Math Tutoring Notes of UBC Math 101 Tutoring

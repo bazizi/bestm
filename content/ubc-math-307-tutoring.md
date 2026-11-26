@@ -4,6 +4,7 @@ description = "Linear equations**. Gaussian elimination, LU decomposition, condi
 date = 2023-12-23
 template = "page.html"
 +++
+
 - About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)
 
 UBC Math 307 Topics Are:**Linear equations**. Gaussian elimination, LU decomposition, condition number. Applications:

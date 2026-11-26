@@ -1,12 +1,13 @@
 +++
 title = "UBC Math 221 Tutoring"
-description = "About The Owner:****A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math…"
+description = "About The Owner:**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math…"
 date = 2022-01-17
 template = "page.html"
 +++
+
 # About Me
 
-**About The Owner:****A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**
+**About The Owner:**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**
 
 - UBC Math 221 covers the topics related to:
 

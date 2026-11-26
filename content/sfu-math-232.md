@@ -4,9 +4,10 @@ description = "A Professional Math Tutor With a Ph.D. Degree in Math for Face-to
 date = 2020-07-14
 template = "page.html"
 +++
+
 # About Me
 
-**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)****Course Outline:**
+**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**Course Outline:**
 
 - Linear equations, matrices, determinants. Introduction to vector spaces and linear transformations and bases. Complex numbers. Eigenvalues and eigenvectors; diagonalization. Inner products and orthogonality; least squares problems. An emphasis on applications involving matrix and vector calculations.
 

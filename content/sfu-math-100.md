@@ -5,7 +5,7 @@ date = 2020-07-14
 template = "page.html"
 +++
 
-**Course Outline:*****Language and notation of mathematics; problem-solving*; algebraic, exponential, logarithmic,* and trigonometric functions and graphs.***
+**Course Outline:**Language and notation of mathematics; problem-solving*; algebraic, exponential, logarithmic,* and trigonometric functions and graphs.**
 
 # About Me:
 

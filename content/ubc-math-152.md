@@ -4,6 +4,7 @@ description = "Vectors and Coordinate Representation; Cross Product; Lines and P
 date = 2019-07-05
 template = "page.html"
 +++
+
 - About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)
 
 - UBC Math 152 (Linear Systems) covers the topics related to:**Vectors and Coordinate Representation; Cross Product; Lines and Planes Equations; Matrices; Solving Linear Systems; Linear Dependence and Independence; Row Echelon Form and Rank; Homogeneous Equations; Resistor Networks; Linear Transformations; Random Walks; Matrix Operations; Matrix inverse; Determinants; Complex Numbers; Eigenvalues and Eigenvectors; Solving Linear System of Differential Equations.**

@@ -4,7 +4,8 @@ description = "Topics include limits, growth rate, and the derivative; logarithm
 date = 2020-07-14
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)****Topics include limits, growth rate, and the derivative; logarithmic, exponential, and trigonometric functions and their application to business, economics, optimization, and approximation methods; introduction to functions of several variables with emphasis on partial derivatives and extrema.
+
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**Topics include limits, growth rate, and the derivative; logarithmic, exponential, and trigonometric functions and their application to business, economics, optimization, and approximation methods; introduction to functions of several variables with emphasis on partial derivatives and extrema.
 
 ## My Sample Math Tutoring Notes of SFU Math 157 Tutoring
 

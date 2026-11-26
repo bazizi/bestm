@@ -4,7 +4,8 @@ description = "*Theory of integration, integration techniques, applications of i
 date = 2020-07-14
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**Course Outline:*****Theory of integration, integration techniques, applications of integration; functions of several variables with emphasis on double and triple integrals and their applications; introduction to differential equations with emphasis on some special first-order equations and their applications; sequences and series.***
+
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**Course Outline:**Theory of integration, integration techniques, applications of integration; functions of several variables with emphasis on double and triple integrals and their applications; introduction to differential equations with emphasis on some special first-order equations and their applications; sequences and series.**
 
 ## My Sample Math Tutoring Notes of SFU Math 158 Tutoring
 

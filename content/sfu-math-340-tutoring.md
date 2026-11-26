@@ -4,9 +4,10 @@ description = "A Professional Math Tutor With a Ph.D. Degree in Math for Face-to
 date = 2023-10-05
 template = "page.html"
 +++
+
 # About Me
 
-**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)****Course Outline:**
+**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**Course Outline:**
 
 - The integers, fundamental theorem of arithmetic. Equivalence relations, modular arithmetic. Univariate polynomials, unique factorization. Rings and fields. Units, zero divisors, integral domains. Ideals, ring homomorphisms. Quotient rings, the ring isomorphism theorem. Chinese remainder theorem. Euclidean, principal ideal, and unique factorization domains. Field extensions, minimal polynomials. Classification of finite fields.
 
