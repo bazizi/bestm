@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://bestmathtutor.ca/v2/"
+base_url = "https://v2.bestmathtutor.ca/"
 
 title = "Best Math Tutor"
 description = "Professional math tutoring by Dr. Sam Azizi, Ph.D. – school and university math in Vancouver, Burnaby, Coquitlam, Surrey and online."
