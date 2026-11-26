@@ -1,0 +1,213 @@
+/* Best Math Tutor – professional theme */
+:root {
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --text: #0f172a;
+  --text-muted: #475569;
+  --primary: #1e40af;
+  --primary-hover: #1d4ed8;
+  --accent: #0e7490;
+  --border: #e2e8f0;
+  --radius: 8px;
+  --shadow: 0 1px 3px rgba(15,23,42,0.08);
+  --max: 960px;
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  font-size: 1.05rem;
+  line-height: 1.65;
+  color: var(--text);
+  background: var(--bg);
+}
+
+a { color: var(--primary); text-decoration: none; }
+a:hover { color: var(--primary-hover); text-decoration: underline; }
+
+img { max-width: 100%; height: auto; border-radius: var(--radius); }
+
+.container {
+  width: min(100% - 2rem, var(--max));
+  margin-inline: auto;
+}
+
+/* Header */
+.site-header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  box-shadow: var(--shadow);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.85rem 0;
+  gap: 1rem;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: var(--primary);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.logo:hover { text-decoration: none; }
+
+.main-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.1rem;
+  align-items: center;
+}
+
+.main-nav a {
+  color: var(--text);
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+
+.main-nav a:hover { color: var(--primary); }
+
+.btn-nav {
+  background: var(--primary);
+  color: #fff !important;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  font-weight: 600;
+}
+.btn-nav:hover { background: var(--primary-hover); text-decoration: none; }
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 1.3rem;
+  padding: 0.25rem 0.6rem;
+  cursor: pointer;
+}
+
+/* Main content */
+main.container {
+  padding: 2rem 0 3.5rem;
+}
+
+.page-header h1 {
+  margin: 0 0 1.25rem;
+  font-size: clamp(1.6rem, 4vw, 2.1rem);
+  line-height: 1.25;
+  color: var(--text);
+}
+
+.content h2 {
+  margin-top: 2rem;
+  font-size: 1.35rem;
+  color: var(--primary);
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.3rem;
+}
+
+.content h3 {
+  margin-top: 1.5rem;
+  font-size: 1.15rem;
+}
+
+.content ul { padding-left: 1.3rem; }
+.content li { margin-bottom: 0.35rem; }
+
+.content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* Home specific */
+.home h1 { text-align: center; color: var(--primary); }
+.home > h2 { text-align: center; }
+
+/* Course cards */
+.course-list { margin-top: 2.5rem; }
+.cards {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.75rem;
+}
+.cards a {
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.85rem 1rem;
+  color: var(--text);
+  font-weight: 500;
+  box-shadow: var(--shadow);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.cards a:hover {
+  border-color: var(--primary);
+  box-shadow: 0 2px 8px rgba(30,64,175,0.12);
+  text-decoration: none;
+  color: var(--primary);
+}
+
+/* Footer */
+.site-footer {
+  background: #0f172a;
+  color: #cbd5e1;
+  padding: 2.5rem 0 1.5rem;
+  font-size: 0.95rem;
+}
+.site-footer a { color: #93c5fd; }
+.site-footer a:hover { color: #bfdbfe; }
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.site-footer h3, .site-footer h4 {
+  margin: 0 0 0.5rem;
+  color: #f1f5f9;
+  font-size: 1rem;
+}
+.copyright {
+  margin: 0;
+  padding-top: 1rem;
+  border-top: 1px solid #334155;
+  font-size: 0.85rem;
+  color: #94a3b8;
+}
+
+/* Responsive */
+@media (max-width: 760px) {
+  .nav-toggle { display: block; }
+  .main-nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    flex-direction: column;
+    padding: 1rem;
+    gap: 0.75rem;
+    box-shadow: var(--shadow);
+  }
+  body.nav-open .main-nav { display: flex; }
+}

@@ -1,0 +1,23 @@
+# The URL the site will be built for
+base_url = "https://bestmathtutor.ca"
+
+title = "Best Math Tutor"
+description = "Professional math tutoring by Dr. Sam Azizi, Ph.D. – school and university math in Vancouver, Burnaby, Coquitlam, Surrey and online."
+
+default_language = "en"
+
+compile_sass = true
+minify_html = false
+generate_feeds = false
+
+[markdown]
+# highlighting = true
+smart_punctuation = true
+
+[extra]
+author = "Dr. Sam Azizi"
+phone = "+1 (778) 882-4636"
+phone_tel = "+17788824636"
+email = "tutor@bestmathtutor.ca"
+whatsapp = "https://wa.me/17788824636"
+telegram = "https://t.me/bestmathtuor"

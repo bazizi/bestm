@@ -1,0 +1,23 @@
+# Zola build output
+public/
+static/processed_images/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Env / local
+.env
+.env.*
+!.env.example
+
+# Logs & temp
+*.log
+tmp/
+temp/
