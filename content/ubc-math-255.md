@@ -1,14 +1,10 @@
 +++
 title = "UBC Math 255 Tutoring"
-description = "***Linear ordinary differential equations, Laplace transforms***, ***Fourier series, and separation of variables for linear partial differential…"
+description = "*Linear ordinary differential equations, Laplace transforms***,***Fourier series, and separation of variables for linear partial differential…"
 date = 2022-01-16
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
-
- **UBC Math 255 covers the topics related to:**
-
-***Linear ordinary differential equations, Laplace transforms***, ***Fourier series, and separation of variables for linear partial differential equations.***
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 255 covers the topics related to:*****Linear ordinary differential equations, Laplace transforms***,***Fourier series, and separation of variables for linear partial differential equations.***
 
 ## My Sample Math Tutoring Notes Of UBC Math 255 Tutoring:
 

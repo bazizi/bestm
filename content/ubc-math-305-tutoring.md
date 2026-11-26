@@ -4,9 +4,7 @@ description = "Professional math tutoring by Dr. Sam Azizi, Ph.D. – school and
 date = 2023-12-23
 template = "page.html"
 +++
-- About The Owner: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
-
- **UBC Math 305 Topics Are:**
+- About The Owner: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 305 Topics Are:**
 
 - Preliminaries
 

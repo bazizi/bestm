@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page %}{{ page.title }} · {% elif section.title %}{{ section.title }} · {% endif %}{{ config.title }}</title>
-  <meta name="description" content="{% if page %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}">
+  <title>{% if page %}{{ page.title }} · {% elif section %}{{ section.title }} · {% endif %}{{ config.title }}</title>
+  <meta name="description" content="{% if page %}{{ page.description | default(value=config.description) }}{% elif section %}{{ section.description | default(value=config.description) }}{% else %}{{ config.description }}{% endif %}">
   <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
   <link rel="icon" href="{{ get_url(path='images/favicon.png') }}" type="image/png">
 </head>

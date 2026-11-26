@@ -6,21 +6,21 @@ template = "page.html"
 +++
 # About Me:
 
- 	- ##### A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+- **A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**
 
 ## My Sample Math Tutoring Notes of Matrix Algebra Tutoring and Linear Algebra Tutoring
 
- 	- [Row Echelon Form](/LinearAlgebra/RowEchelonForm.pdf)
+- [Row Echelon Form](/LinearAlgebra/RowEchelonForm.pdf)
 
- 	- [Gauss-Jordan Elimination](/LinearAlgebra/GaussJordanElimination.pdf)
+- [Gauss-Jordan Elimination](/LinearAlgebra/GaussJordanElimination.pdf)
 
- 	- [Vector Spaces](/LinearAlgebra/VectorSpaces.pdf)
+- [Vector Spaces](/LinearAlgebra/VectorSpaces.pdf)
 
- 	- [Determinants](/LinearAlgebra/Determinants.pdf)
+- [Determinants](/LinearAlgebra/Determinants.pdf)
 
- 	- [Linear Transformations](/LinearAlgebra/LinearTransformations.pdf)
+- [Linear Transformations](/LinearAlgebra/LinearTransformations.pdf)
 
- 	- [Gram-Schmidth Process](/LinearAlgebra/GramSchmidthProcess.pdf)
+- [Gram-Schmidth Process](/LinearAlgebra/GramSchmidthProcess.pdf)
 
 ---
 

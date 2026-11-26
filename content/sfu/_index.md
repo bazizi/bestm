@@ -6,9 +6,9 @@ sort_by = "title"
 +++
 # About Me:
 
-## A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+## A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)
 
-## I am experienced in Math tutoring the following SFU Math Courses:
+## I am experienced in Math tutoring the following SFU Math Courses:
 
 - [SFU Math 100 Tutoring](/sfu-math-100/)
 

@@ -1,18 +1,13 @@
 +++
 title = "UBC Math 215 Tutoring"
-description = "**A Professional Math Tutor With a Ph.D. Degree in Math for online math…"
+description = "A Professional Math Tutor With a Ph.D. Degree in Math for online math…"
 date = 2022-01-16
 template = "page.html"
 +++
-**About Me:**
 
- **A Professional Math Tutor With a Ph.D. Degree in Math for online math tutoring**.
+**About Me:****A Professional Math Tutor With a Ph.D. Degree in Math for online math tutoring**.**The course UBC Math 215 covers the following topics:*****First-order equations; linear equations; linear systems; Laplace transforms; numerical methods; trajectory analysis of plane nonlinear systems.***
 
-**The course UBC Math 215 covers the following topics:**
-
-***First-order equations; linear equations; linear systems; Laplace transforms; numerical methods; trajectory analysis of plane nonlinear systems.***
-
-## My Sample Math Tutoring  Notes Of UBC Math 215 Tutoring:
+## My Sample Math Tutoring Notes Of UBC Math 215 Tutoring:
 
 - [Separable Equations](https://googlemathtutor.com/SeperableEquation.pdf)
 

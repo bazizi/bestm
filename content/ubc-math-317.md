@@ -1,14 +1,10 @@
 +++
 title = "UBC Math 317 Tutoring"
-description = "***Parametric Curves and Functions, Line Integral, Surface Integral, Area of Rotation; Gradient, Divergence, and Curl, Line Integral, Green Theorem, Surface…"
+description = "*Parametric Curves and Functions, Line Integral, Surface Integral, Area of Rotation; Gradient, Divergence, and Curl, Line Integral, Green Theorem, Surface…"
 date = 2019-07-04
 template = "page.html"
 +++
-- About Me:  A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
-
-**UBC Math 317 covers the topics related to:**
-
- ***Parametric Curves and Functions, Line Integral, Surface Integral, Area of Rotation; Gradient, Divergence, and Curl, Line Integral, Green Theorem, Surface Integral, Divergence Theorem, and Stokes Theorem.  ***
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 317 covers the topics related to:*****Parametric Curves and Functions, Line Integral, Surface Integral, Area of Rotation; Gradient, Divergence, and Curl, Line Integral, Green Theorem, Surface Integral, Divergence Theorem, and Stokes Theorem.***
 
 ---
 

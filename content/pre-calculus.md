@@ -6,7 +6,7 @@ template = "page.html"
 +++
 ### About Me:
 
-### A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)     
+### A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)
 
 ## My Sample Math Tutoring Notes of Pre-Calculus 11 Tutoring:
 
@@ -18,7 +18,7 @@ template = "page.html"
 
 - [Graphing Quadratic Functions](/precalculus/GraphingQuadraticFunctions.pdf)
 
-##  Sample Files of Pre-Calculus 12
+## Sample Files of Pre-Calculus 12
 
 - [Graphing Trigonometric Functions](/precalculus/GraphingTrigonometricFunctions.pdf)
 
@@ -26,7 +26,7 @@ template = "page.html"
 
 - [Synthetic Division](/precalculus/Synthetic%20Division.pdf)
 
--  [Composite Functions](/precalculus/ComposteFunctions.pdf)
+- [Composite Functions](/precalculus/ComposteFunctions.pdf)
 
 Sample Pre-Calculus 12 Questions (Check Your Knowledge!)
 

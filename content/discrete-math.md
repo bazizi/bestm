@@ -6,13 +6,13 @@ template = "page.html"
 +++
 ### About Me:
 
-### A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+### A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**Discrete Math courses include SFU MACM 101 and UBC Math 220
 
-**Discrete Math courses include SFU MACM 101 and UBC Math 220**
+**
 
-## My Sample Math Tutoring Notes of Discrete Math Tutoring
+## My Sample Math Tutoring Notes of Discrete Math Tutoring** [Binomial Expansion](/precalculus/Binomial.pdf)
 
-**[Binomial Expansion](/precalculus/Binomial.pdf)**
+**
 
 ---
 

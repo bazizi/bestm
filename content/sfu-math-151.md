@@ -1,22 +1,16 @@
 +++
 title = "SFU Math 151 Tutoring"
-description = "**Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.…"
+description = "Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.…"
 date = 2020-07-14
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**SFU Math 151 covers the topics related to:****Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.**
 
-**SFU Math 151 covers the topics related to:**
-
- **Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a  Function, Logarithmic Functions. **
-
-## My Sample Math Tutoring Notes of SFU Math 151  Tutoring
+## My Sample Math Tutoring Notes of SFU Math 151 Tutoring
 
 - [Limit and Continuity](/Calculus1/Limit.pdf)
 
 - [Derivatives Formulas](/Calculus1/DerivativesFormulas.pdf)
-
- 
 
 - [Chain Rule](/Calculus1/Chain%20Rule.pdf)
 
@@ -25,8 +19,6 @@ template = "page.html"
 - [Local Extrema Points](/Calculus1/LocalMaximimumLocaMinimum.pdf)
 
 - [Logarithmic Functions](/Calculus1/Logarithmic%20Functions.pdf)
-
--
 
 ---
 

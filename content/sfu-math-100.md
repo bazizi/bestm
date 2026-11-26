@@ -1,16 +1,15 @@
 +++
 title = "SFU Math 100 Tutoring"
-description = "***Language and notation of mathematics; problem-solving*; algebraic, exponential, logarithmic,* and trigonometric functions and…"
+description = "*Language and notation of mathematics; problem-solving*; algebraic, exponential, logarithmic,* and trigonometric functions and…"
 date = 2020-07-14
 template = "page.html"
 +++
-**Course Outline:**
 
-***Language and notation of mathematics; problem-solving*; algebraic, exponential, logarithmic,* and trigonometric functions and graphs.***
+**Course Outline:*****Language and notation of mathematics; problem-solving*; algebraic, exponential, logarithmic,* and trigonometric functions and graphs.***
 
 # About Me:
 
-- ##### A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+- **A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**
 
 ## My Sample Math Tutoring Notes of SFU Math 100 Tutoring:
 
@@ -19,8 +18,6 @@ template = "page.html"
 - [Factoring Quadratic Functions](/precalculus/FactoringQuadratics.pdf)
 
 - [Graphing Quadratic Functions](/precalculus/GraphingQuadraticFunctions.pdf)
-
-##
 
 - [Graphing Trigonometric Functions](/precalculus/GraphingTrigonometricFunctions.pdf)
 

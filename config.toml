@@ -11,7 +11,7 @@ minify_html = false
 generate_feeds = false
 
 [markdown]
-# highlighting = true
+# highlight_code = true
 smart_punctuation = true
 
 [extra]

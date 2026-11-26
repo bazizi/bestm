@@ -8,15 +8,13 @@ template = "page.html"
 
 ## I am a professional math Tutor with a Ph.D. degree in math for school grades one through the last year of university.
 
-The "**SAT**" and "**SAT Subject Test**" are two tests widely used for university admissions offering undergraduate programs in the United States.
+The "**SAT**" and "**SAT Subject Test**" are two tests widely used for university admissions offering undergraduate programs in the United States.**SAT Math**tests general knowledge of Math, and**SAT Subject****Test Math**is designed to measure more specific knowledge in mathematics.
 
-**SAT Math** tests general knowledge of Math, and **SAT Subject** **Test Math** is designed to measure more specific knowledge in mathematics.
-
-For **SAT Math**, using my sample questions, I teach my students the techniques and notes for solving to the questions of the following topics of **SAT**:
+For**SAT Math**, using my sample questions, I teach my students the techniques and notes for solving to the questions of the following topics of**SAT**:
 
 Arithmetic, Algebra, Geometry, Data Analysis, Counting and Probability, Sequences, Functions and Their Graphs, Trigonometry, and Complex Numbers.
 
-In **SAT Subject Test Math**, we cover the math topics with more details and also new SAT related topics of math including:
+In**SAT Subject Test Math**, we cover the math topics with more details and also new SAT related topics of math including:
 
 Limits of Functions , Parametric Equations, Conic Sections, Polar Coordinates, Matrices, Sequences and Series, and Vectors.
 

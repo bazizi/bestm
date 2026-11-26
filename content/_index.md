@@ -10,7 +10,7 @@ template = "index.html"
 
 ## Experienced Math Tutor for University Students from Freshman to Senior Year
 
-Hello and welcome! I'm **Dr. Sam Azizi**, a highly experienced professional math tutor with a Ph.D. in mathematics, offering private math tutoring. To maintain the high quality of tutoring, I have no employees — all tutoring is done by me alone. Each year I accept a short list of students for [school math tutoring](/school-math/) and [university math tutoring](/university-math/) from grade one through the last year of university.
+Hello and welcome! I'm**Dr. Sam Azizi**, a highly experienced professional math tutor with a Ph.D. in mathematics, offering private math tutoring. To maintain the high quality of tutoring, I have no employees — all tutoring is done by me alone. Each year I accept a short list of students for [school math tutoring](/school-math/) and [university math tutoring](/university-math/) from grade one through the last year of university.
 
 ### School Math Tutoring & Entrance Exams
 
@@ -47,8 +47,8 @@ Hello and welcome! I'm **Dr. Sam Azizi**, a highly experienced professional math
 
 ### Tutoring Rates (promotional)
 
-- **One-on-one tutoring:** $50–$60 per hour
-- **10-hour package (5 sessions):** $500
+- **One-on-one tutoring:**$50–$60 per hour
+- **10-hour package (5 sessions):**$500
 - Group rates available — contact me for details
 
 Rates depend on course level, difficulty, and appointment date.

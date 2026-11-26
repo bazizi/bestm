@@ -1,30 +1,28 @@
 +++
 title = "SFU Math 240 Tutoring"
-description = "**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math…"
+description = "A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math…"
 date = 2020-07-14
 template = "page.html"
 +++
-# About Me:
+# About Me
 
-**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)**
+**A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)****SFU Math 240 Course Outline:**
 
-**SFU Math 240 Course Outline:**
-
- 	- Linear equations, matrices, determinants. Real and abstract vector spaces, subspaces, and linear transformations; basis and change of basis. Complex numbers. Eigenvalues and eigenvectors; diagonalization. Inner products and orthogonality; least squares problems. Applications. The subject is presented with an abstract emphasis and includes proofs of the basic theorems.
+- Linear equations, matrices, determinants. Real and abstract vector spaces, subspaces, and linear transformations; basis and change of basis. Complex numbers. Eigenvalues and eigenvectors; diagonalization. Inner products and orthogonality; least squares problems. Applications. The subject is presented with an abstract emphasis and includes proofs of the basic theorems.
 
 ## My Sample Math Tutoring Notes of SFU Math 240 Tutoring
 
- 	- [Row Echelon Form](/LinearAlgebra/RowEchelonForm.pdf)
+- [Row Echelon Form](/LinearAlgebra/RowEchelonForm.pdf)
 
- 	- [Gauss-Jordan Elimination](/LinearAlgebra/GaussJordanElimination.pdf)
+- [Gauss-Jordan Elimination](/LinearAlgebra/GaussJordanElimination.pdf)
 
- 	- [Vector Spaces](/LinearAlgebra/VectorSpaces.pdf)
+- [Vector Spaces](/LinearAlgebra/VectorSpaces.pdf)
 
- 	- [Determinants](/LinearAlgebra/Determinants.pdf)
+- [Determinants](/LinearAlgebra/Determinants.pdf)
 
- 	- [Linear Transformations](/LinearAlgebra/LinearTransformations.pdf)
+- [Linear Transformations](/LinearAlgebra/LinearTransformations.pdf)
 
- 	- [Gram-Schmidth Process](/LinearAlgebra/GramSchmidthProcess.pdf)
+- [Gram-Schmidth Process](/LinearAlgebra/GramSchmidthProcess.pdf)
 
 ---
 

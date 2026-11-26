@@ -37,8 +37,8 @@ I also tutor Capilano University, Langara College, Columbia College, Douglas Col
 
 ## Math Tutoring Rates (promotional)
 
-- **One-on-one tutoring:** $50–$60 per hour
-- **10-hour package (5 sessions):** $500
+- **One-on-one tutoring:**$50–$60 per hour
+- **10-hour package (5 sessions):**$500
 - Group of 6 people (Saturdays 3–4 pm PST): $12 per person
 
 Rates depend on course level, difficulty, and appointment date. Please contact me for details.

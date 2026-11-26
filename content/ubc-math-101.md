@@ -4,11 +4,7 @@ description = "I**ntegration and Anti Derivatives of one variable Functions, Def
 date = 2019-07-02
 template = "page.html"
 +++
-- About The Owner: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
-
-**UBC Math 101 covers the topics related to:**
-
-I**ntegration and Anti Derivatives of one variable Functions, Definite Integral, Integration By Parts, Trigonometric Substitution Integration, Rational Functions Integrations, Sequences and Series, Taylor Series. **
+- About The Owner: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 101 covers the topics related to:**I**ntegration and Anti Derivatives of one variable Functions, Definite Integral, Integration By Parts, Trigonometric Substitution Integration, Rational Functions Integrations, Sequences and Series, Taylor Series.**
 
 ## My Sample Math Tutoring Notes of UBC Math 101 Tutoring
 
@@ -16,19 +12,17 @@ I**ntegration and Anti Derivatives of one variable Functions, Definite Integral,
 
 - [Integrals Formulas](/Calculus2/IntegralFormulas.pdf)
 
- 
-
 - [Integration](/Calculus2/Integration.pdf)
 
 - [Definite Integral](/Calculus2/DefiniteIntegral.pdf)
 
 - [Integration By Parts](/Calculus2/IntegrationByParts.pdf)
 
-- [Trigonometric Substitution Integration](/Calculus2/TrigonometricSubstitutionIntegration.pdf) 
+- [Trigonometric Substitution Integration](/Calculus2/TrigonometricSubstitutionIntegration.pdf)
 
 - [Rational Functions Integration](/Calculus2/RationalFunctionsIntegration.pdf)
 
--  [Sequences and Series](/Calculus2/SequencesAndSeries.pdf)
+- [Sequences and Series](/Calculus2/SequencesAndSeries.pdf)
 
 - [Taylor Series](/Calculus2/TaylorSeries.pdf)
 

@@ -6,15 +6,15 @@ template = "page.html"
 +++
 ## About Me:
 
-- ### A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+- **A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**
 
 ### Online Math Tutoring:
 
 ##### My second option for students who are unreachable for face-to-face tutoring is online tutoring. I use Microsoft Teams and Zoom for online math tutoring
 
-##### My Microsoft Teams ID:     tutor@bestmathtutor.ca
+##### My Microsoft Teams ID: tutor@bestmathtutor.ca
 
-##### My Zoom ID:     a_azizi@yahoo.com
+##### My Zoom ID: a_azizi@yahoo.com
 
 ##### Three monitors are connected to my computer. I also have a pen tablet connected to my computer for writing on one of the monitors. Then I share that monitor with my tutee using Microsoft Teams, so the student can see my writing and we can see and hear each other. If the student wants to ask me a written question, he can take its picture and send it to me using WhatsApp. To check the students' learning progress, sometimes, I ask them to solve a math problem and send me the solution picture. After the tutoring session, I will email my class notes to my online student.
 

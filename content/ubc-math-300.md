@@ -1,14 +1,10 @@
 +++
 title = "UBC Math 300 Tutoring"
-description = "***The Functions of a complex variable, Cauchy-Riemann equations, elementary functions, Cauchy's theorem and contour integration, Laurent series, poles, and…"
+description = "*The Functions of a complex variable, Cauchy-Riemann equations, elementary functions, Cauchy's theorem and contour integration, Laurent series, poles, and…"
 date = 2022-01-17
 template = "page.html"
 +++
-- About The Owner: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
-
- **UBC Math 300 covers the topics related to:**
-
-***The Functions of a complex variable, Cauchy-Riemann equations, elementary functions, Cauchy's theorem and contour integration, Laurent series, poles, and residues.***
+- About The Owner: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 300 covers the topics related to:*****The Functions of a complex variable, Cauchy-Riemann equations, elementary functions, Cauchy's theorem and contour integration, Laurent series, poles, and residues.***
 
 ---
 

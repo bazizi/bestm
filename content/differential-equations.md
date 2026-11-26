@@ -6,17 +6,11 @@ template = "page.html"
 +++
 ## About Me:
 
-## A Professional Math Tutor With a Ph.D. Degree in Math for online math tutoring.
+## A Professional Math Tutor With a Ph.D. Degree in Math for online math tutoring.
 
- Differential Equation courses include Ordinary Differential Equations and also Partial Differential Equations.
-
-**The course ordinary Differential Equations covers the following topics:**
-
-***First-order equations; linear equations; linear systems; Laplace transforms; numerical methods; trajectory analysis of plane nonlinear systems.***
+ Differential Equation courses include Ordinary Differential Equations and also Partial Differential Equations.**The course ordinary Differential Equations covers the following topics:*****First-order equations; linear equations; linear systems; Laplace transforms; numerical methods; trajectory analysis of plane nonlinear systems.***
 
 ## My Sample Math Tutoring Notes on Differential Equations Tutoring:
-
- 
 
 - [Separable Equations](/DifferentialEquations/SeperableEquation.pdf)
 

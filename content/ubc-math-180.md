@@ -1,28 +1,14 @@
 +++
 title = "UBC Math 180 Tutoring"
-description = "**Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.…"
+description = "Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.…"
 date = 2019-07-03
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**UBC Math 180 covers the topics related to:****Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a Function, Logarithmic Functions.**
 
-**UBC Math 180 covers the topics related to:**
+## My Sample Math Tutoring Notes of UBC Math 180 Tutoring** [Limit and Continuity](/Calculus1/Limit.pdf)****[Derivatives Formulas](/Calculus1/DerivativesFormulas.pdf)****[Chain Rule](/Calculus1/Chain%20Rule.pdf)****[Derivative of Functions](/Calculus1/derivative1.pdf)****Local Extrema Points****[Logarithmic Functions](/Calculus1/Logarithmic%20Functions.pdf)
 
- **Limits and Continuity of Functions, Derivative of Functions, Chain Rule of One variable Functions, Local Extremum of a  Function, Logarithmic Functions. **
-
-## My Sample Math Tutoring Notes of UBC Math 180 Tutoring
-
-**[Limit and Continuity](/Calculus1/Limit.pdf)**
-
-**[Derivatives Formulas](/Calculus1/DerivativesFormulas.pdf)**
-
-**[Chain Rule](/Calculus1/Chain%20Rule.pdf)**
-
-**[Derivative of Functions](/Calculus1/derivative1.pdf)**
-
-**Local Extrema Points**
-
-**[Logarithmic Functions](/Calculus1/Logarithmic%20Functions.pdf)**
+**
 
 ---
 

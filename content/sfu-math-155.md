@@ -1,22 +1,17 @@
 +++
 title = "SFU Math 155 Tutoring"
-description = "***The integral, partial derivatives, differential equations, linear systems, and their applications; mathematical models of biological…"
+description = "*The integral, partial derivatives, differential equations, linear systems, and their applications; mathematical models of biological…"
 date = 2020-07-14
 template = "page.html"
 +++
-**Course Outline**:
 
-***The integral, partial derivatives, differential equations, linear systems, and their applications; mathematical models of biological processes.***
-
- 
+**Course Outline**:***The integral, partial derivatives, differential equations, linear systems, and their applications; mathematical models of biological processes.***
 
 ## My Sample Math Tutoring Notes of SFU Math 155 Tutoring
 
 - [Mock Midterm](/Calculus2/Math101MockMidterm.pdf)
 
 - [Integrals Formulas](/Calculus2/IntegralFormulas.pdf)
-
- 
 
 - [Integration](/Calculus2/Integration.pdf)
 

@@ -6,13 +6,13 @@ template = "page.html"
 +++
 ## About Me:
 
-## A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+## A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)
 
 ## Course Outline:
 
 ## Introduction to counting, induction, automata theory, formal reasoning, and modular arithmetic.
 
-## My Sample Math Tutoring Notes of MACM 101  Tutoring:
+## My Sample Math Tutoring Notes of MACM 101 Tutoring:
 
 ## [Binomial Expansion](/precalculus/Binomial.pdf)
 

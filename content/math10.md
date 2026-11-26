@@ -6,11 +6,11 @@ template = "page.html"
 +++
 # About Me:
 
-- A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+- A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)
 
 - —————————————————————————————
 
-## My Sample Math Tutoring Notes of Math 10 Tutoring:
+## My Sample Math Tutoring Notes of Math 10 Tutoring:
 
 - [Factoring Quadratics](/Math10/Factoring Quadratics.pdf)
 

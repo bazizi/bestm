@@ -1,22 +1,16 @@
 +++
 title = "SFU Math 158 Tutoring"
-description = "***Theory of integration, integration techniques, applications of integration; functions of several variables with emphasis on double and triple integrals and…"
+description = "*Theory of integration, integration techniques, applications of integration; functions of several variables with emphasis on double and triple integrals and…"
 date = 2020-07-14
 template = "page.html"
 +++
-- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and   [Online Math Tutoring](/online-tutoring/)
+- About Me: A Professional Math Tutor With a Ph.D. Degree in Math for Face-to-Face and [Online Math Tutoring](/online-tutoring/)**Course Outline:*****Theory of integration, integration techniques, applications of integration; functions of several variables with emphasis on double and triple integrals and their applications; introduction to differential equations with emphasis on some special first-order equations and their applications; sequences and series.***
 
-**Course Outline:**
-
-***Theory of integration, integration techniques, applications of integration; functions of several variables with emphasis on double and triple integrals and their applications; introduction to differential equations with emphasis on some special first-order equations and their applications; sequences and series. ***
-
-## My Sample Math Tutoring Notes of SFU Math 158  Tutoring
+## My Sample Math Tutoring Notes of SFU Math 158 Tutoring
 
 - [Mock Midterm](/Calculus2/Math101MockMidterm.pdf)
 
 - [Integrals Formulas](/Calculus2/IntegralFormulas.pdf)
-
- 
 
 - [Integration](/Calculus2/Integration.pdf)
 
@@ -24,11 +18,11 @@ template = "page.html"
 
 - [Integration By Parts](/Calculus2/IntegrationByParts.pdf)
 
-- [Trigonometric Substitution Integration](/Calculus2/TrigonometricSubstitutionIntegration.pdf) 
+- [Trigonometric Substitution Integration](/Calculus2/TrigonometricSubstitutionIntegration.pdf)
 
 - [Rational Functions Integration](/Calculus2/RationalFunctionsIntegration.pdf)
 
--  [Sequences and Series](/Calculus2/SequencesAndSeries.pdf)
+- [Sequences and Series](/Calculus2/SequencesAndSeries.pdf)
 
 - [Taylor Series](/Calculus2/TaylorSeries.pdf)
 
