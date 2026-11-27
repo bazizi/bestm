@@ -1,0 +1,231 @@
+\documentclass[12pt]{amsart}
+%\documentclass[12pt]{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{euscript}
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{txfonts}
+ \usepackage{framed}
+\usepackage{fancybox}
+
+
+\topmargin=-2cm \oddsidemargin=-.5cm \evensidemargin=-1.5cm
+\textwidth=17.2cm \textheight=25cm \onecolumn
+\renewcommand{\baselinestretch}{1.51}
+
+
+
+
+
+\newtheorem{ex}{Example}
+
+
+\newtheorem{exer}{Exercise}
+
+\newcommand{\s}{{\bf Solution. }}
+
+
+\newcommand{\n}{   {\color{blue} $\clubsuit$  {\bf Note.}        }       }
+
+
+
+
+%\shadowbox{ {\color{blue} $\clubsuit$  {\bf Note.} }{\it\large
+
+
+
+\newcommand{\fm}{\mathfrak{M}}
+
+
+%\chead{{\hspace{1.5cm} \bf bestmathtutor.ca SSAT/ISEE   Subject: Percent
+ % }}
+
+\lhead{\bf bestmathtutor.ca} \chead{\bf Contact Number: 778-882-4636}   \rhead{\bf Subject: Percent}
+ 
+
+
+
+\begin{document}
+
+
+
+
+
+\large
+
+ %\fancyput(3in,-4.7in){\setlength{\unitlength}{1in}\fancyoval(7.5,10.7)}
+
+
+  \fancypage{%
+    \setlength{\fboxsep}{8pt}%
+    \setlength{\shadowsize}{8pt}%
+    \shadowbox}{}
+
+
+
+
+
+
+
+
+
+%\begin{framed}
+
+   \shadowbox{\n
+   {\it
+82\% of 75 is \hspace{0.5cm} $\frac{82}{100}\times 75.$
+ }
+
+ \hspace{8cm}}
+
+
+%\end{framed}
+
+
+
+
+
+\begin{ex}
+
+What is 5\% sale tax of a \$780 laptop?
+
+
+$
+\begin{array}{ccccc}
+  (A)\hspace{0.2cm} \$741 \hspace{1cm} & (B)\hspace{0.2cm}
+   \$39 \hspace{1cm} & (C)\hspace{0.2cm} \$819 \hspace{1cm} &
+(D)\hspace{0.2cm} \$56 \hspace{1cm} &
+   (E)\hspace{0.2cm} \$25 \\
+\end{array}
+$
+
+\end{ex}
+
+\s $\frac{5}{100}\times 780=\frac{5}{100}\times
+\frac{780}{1}=\frac{5\times 780}{100\times 1}=39.$
+
+\vspace{0.5cm} \shadowbox{\n
+   {\it
+The total cost of \$95 with 8\% tax is \hspace{0.5cm} $95\times
+\frac{100+8}{100}.$
+ }
+ \hspace{2.5cm}}
+
+
+
+\begin{ex}
+
+What is the total cost of a \$750 TV with 6\% sale tax?
+
+$
+\begin{array}{ccccc}
+  (A)\hspace{0.2cm} \$45 \hspace{1cm} & (B)\hspace{0.2cm}
+   \$705 \hspace{1cm} & (C)\hspace{0.2cm} \$875 \hspace{1cm} &
+(D)\hspace{0.2cm} \$795 \hspace{1cm} &
+   (E)\hspace{0.2cm} \$740 \\
+\end{array}
+$
+\end{ex}
+
+\s $750\times \frac{100+6}{100}=\frac{750}{1}\times
+\frac{106}{100} =\frac{750\times 106 }{100\times 1}=795.$
+
+
+\vspace{0.5cm} \shadowbox{\n
+   {\it
+The sale price of \$65 with 7\% sale off is \hspace{0.5cm}
+$65\times \frac{100-7}{100}.$
+ }
+ \hspace{1.5cm}}
+
+
+\begin{ex}
+
+A \$700 computer is on sale for 9\% off. What is the sale price?
+
+$
+\begin{array}{ccccc}
+  (A)\hspace{0.2cm} \$637 \hspace{1cm} & (B)\hspace{0.2cm}
+   \$691 \hspace{1cm} & (C)\hspace{0.2cm} \$610 \hspace{1cm} &
+(D)\hspace{0.2cm} \$630 \hspace{1cm} &
+   (E)\hspace{0.2cm} \$623 \\
+\end{array}
+$
+\end{ex}
+
+
+\s $700\times \frac{100-9}{100}=\frac{700}{1}\times \frac{91}{100}
+=\frac{700\times 91}{100}=637.$
+
+
+\begin{center}
+\vspace{0.5cm} {\color{red} {\bf Exercises.}}
+\end{center}
+
+
+\begin{exer}
+What is 4\% of \$650?
+
+$
+\begin{array}{ccccc}
+  (A)\hspace{0.2cm} \$26 \hspace{1cm} & (B)\hspace{0.2cm}
+   \$624 \hspace{1cm} & (C)\hspace{0.2cm} \$676 \hspace{1cm} &
+(D)\hspace{0.2cm} \$39 \hspace{1cm} &
+   (E)\hspace{0.2cm} \$611 \\
+\end{array}
+$
+\end{exer}
+
+
+
+\begin{exer}
+What is the total cost of a \$300 cell phone with 12\% sale tax?
+
+$
+\begin{array}{ccccc}
+  (A)\hspace{0.2cm} \$46 \hspace{1cm} & (B)\hspace{0.2cm}
+   \$246 \hspace{1cm} & (C)\hspace{0.2cm} \$264 \hspace{1cm} &
+(D)\hspace{0.2cm} \$36 \hspace{1cm} &
+   (E)\hspace{0.2cm} \$336 \\
+\end{array}
+$
+\end{exer}
+
+
+
+
+\begin{exer}
+A \$400 camera is on sale for 7\% off. What is the sale price?
+
+$
+\begin{array}{ccccc}
+  (A)\hspace{0.2cm} \$28 \hspace{1cm} & (B)\hspace{0.2cm}
+   \$428 \hspace{1cm} & (C)\hspace{0.2cm} \$372 \hspace{1cm} &
+(D)\hspace{0.2cm} \$393 \hspace{1cm} &
+   (E)\hspace{0.2cm} \$293 \\
+\end{array}
+$
+\end{exer}
+
+
+\begin{exer}
+The price of a coat after 12\% discount is \$88. The original
+price is
+
+$
+\begin{array}{ccccc}
+  (A)\hspace{0.2cm} \$130 \hspace{1cm} & (B)\hspace{0.2cm}
+   \$120 \hspace{1cm} & (C)\hspace{0.2cm} \$110 \hspace{1cm} &
+(D)\hspace{0.2cm} \$100 \hspace{1cm} &
+   (E)\hspace{0.2cm} \$98.56 \\
+\end{array}
+$
+\end{exer}
+
+
+\end{document}
